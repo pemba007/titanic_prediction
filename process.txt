@@ -1,0 +1,17 @@
+Feature Engineering
+
+1. Removing the highly null features
+
+a. Cabin - 77%
+
+2. Imputing less null features
+
+a. Age - 19%
+
+b. Embarked - Embarked .22 % 
+
+c. Fare(For test.csv) - 0.11 %
+
+
+0.8203389830508474
+0.8067796610169492
